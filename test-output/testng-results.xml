@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Click on contact btn]]>
+    </line>
+    <line>
+      <![CDATA[Enter Your Name]]>
+    </line>
+    <line>
+      <![CDATA[Nextpage]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46787" started-at="2021-09-08T16:44:41 IST" finished-at="2021-09-08T16:45:28 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46787" started-at="2021-09-08T16:44:41 IST" finished-at="2021-09-08T16:45:28 IST">
+      <class name="FleetStudioTestCalss.TestClass">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:FleetStudioTestCalss.TestClass@1d8d30f7]" name="OpenBrowser" is-config="true" duration-ms="21942" started-at="2021-09-08T16:44:41 IST" finished-at="2021-09-08T16:45:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="ClickOnContactBtn()[pri:0, instance:FleetStudioTestCalss.TestClass@1d8d30f7]" name="ClickOnContactBtn" is-config="true" duration-ms="7954" started-at="2021-09-08T16:45:03 IST" finished-at="2021-09-08T16:45:11 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on contact btn]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ClickOnContactBtn -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:FleetStudioTestCalss.TestClass@1d8d30f7]" name="Test1" duration-ms="9826" started-at="2021-09-08T16:45:11 IST" finished-at="2021-09-08T16:45:21 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Enter Your Name]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:FleetStudioTestCalss.TestClass@1d8d30f7]" name="CloseBrowser" is-config="true" duration-ms="6951" started-at="2021-09-08T16:45:21 IST" finished-at="2021-09-08T16:45:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="Nextpage()[pri:0, instance:FleetStudioTestCalss.TestClass@1d8d30f7]" name="Nextpage" is-config="true" duration-ms="0" started-at="2021-09-08T16:45:21 IST" finished-at="2021-09-08T16:45:21 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Nextpage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Nextpage -->
+      </class> <!-- FleetStudioTestCalss.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
